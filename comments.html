@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>COMMENTS</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <h1>Comente sobre a cultura da empresa aqui!</h1>
+        <form>
+            <label for="name">Nome:</label>
+            <input type="text" name="name" id="name" placeholder="Digite seu nome aqui!"><br>
+            <label for="comment">Comente sobre a cultura da empresa</label>
+            <textarea name="comment" id="comment" cols="30" rows="10" placeholder="Digite o comentario aqui"></textarea>
+            <input type="button" id="btncomment" value="comentar">
+        </form>
+        
+        
+        <ul id="parentList">
+
+        </ul>
+
+
+
+        <script>
+            const comments = () => {
+                const nameValue = document.querySelector('#name');
+                const commentValue = document.querySelector('#comment');
+                const btnComment = document.querySelector('#btncomment');
+                let list = document.createElement('li');
+                const parent = document.querySelector('#parentList')
+                parentList.appendChild(list);
+                btnComment.addEventListener('click', () => {
+                    list.innerHTML = `${nameValue.value}
+                    ${commentValue.value}`
+                    
+                })
+
+            }
+            comments();
+        </script>
+    </body>
+
+</html>
