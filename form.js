@@ -1,1 +1,1 @@
-confirm("Me considero do genero Feminino!")
+confirm("Me considero uma mulher trans/cis ou pessoa não binária!")
