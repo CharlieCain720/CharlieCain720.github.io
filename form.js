@@ -13,3 +13,7 @@ function irParaOQueELogica(){
 function irParaCheckpoint1(){
     location.href = "checkpoint1.html"
 }
+
+function irParaOsFamososTestesDeLogica(){
+    location.href = "osfamosostestesdelogica.html"
+}
