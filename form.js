@@ -37,3 +37,7 @@ function irParaAnatomiaDeUmTesteDeLogica(){
 function irParaComoSePareceUmTesteDeLogica(){
     location.href = "comosepareceumtestedelogica.html"
 }
+
+function irParaOQueALogicaTemAVerComAComputacao(){
+    location.href = "oquealogicatemavercomacomputacao.html"
+}
