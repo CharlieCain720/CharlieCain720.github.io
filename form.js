@@ -17,3 +17,15 @@ function irParaCheckpoint1(){
 function irParaOsFamososTestesDeLogica(){
     location.href = "osfamosostestesdelogica.html"
 }
+
+function irParaOQEUmTesteDeLogica(){
+    location.href = "oqeumtestedelogica.html"
+}
+
+function irParaPorQueTestesDeLogica(){
+    location.href = "porquetestesdelogica.html"
+}
+
+function irParaCheckPoint2(){
+    location.href = "checkpoint2.html"
+}
