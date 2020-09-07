@@ -26,6 +26,14 @@ function irParaPorQueTestesDeLogica(){
     location.href = "porquetestesdelogica.html"
 }
 
-function irParaCheckPoint2(){
-    location.href = "checkpoint2.html"
+function irParaCheckPoint2A(){
+    location.href = "checkpoint2a.html"
+}
+
+function irParaAnatomiaDeUmTesteDeLogica(){
+    location.href = "anatomiadeumtestedelogica.html"
+}
+
+function irParaComoSePareceUmTesteDeLogica(){
+    location.href = "comosepareceumtestedelogica.html"
 }
