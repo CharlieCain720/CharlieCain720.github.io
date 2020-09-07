@@ -38,12 +38,36 @@ nav span {
     border-radius: 5%;
     color: white;
 }
+form {
+    background-color: white;
+    border-radius: 1%;
+    width: 300px;
+    padding: 32px 80px;
+    display: flex;
+    justify-items: center;
+    justify-content: center;
+    flex-direction: column;
+    font-family: 'Open Sans', 'Open Sans', Arial, sans-serif;
+    font-size: large;
+}
 
 .content-match {
     display: flex;
     justify-content: center;
     align-content: center;
+    font-family: 'Open Sans', 'Open Sans', Arial, sans-serif;;
     
+}
+
+.form-title {
+    font-size: 25px;
+    width: 1535px;
+    height: 100px;
+    flex-flow: nowrap;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Open Sans', 'Open Sans', Arial, sans-serif;;
 }
 
 footer {
