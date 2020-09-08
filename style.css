@@ -355,3 +355,7 @@ footer {
 	font-weight:200;
 	font-style:italic
 }
+
+#resposta{
+    display: none;
+}

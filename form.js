@@ -38,6 +38,10 @@ function irParaComoSePareceUmTesteDeLogica(){
     location.href = "comosepareceumtestedelogica.html"
 }
 
-function irParaOQueALogicaTemAVerComAComputacao(){
-    location.href = "oquealogicatemavercomacomputacao.html"
+function irPara(pagina){
+    location.href = pagina+".html"
+}
+
+function mostrarresposta(){
+    document.getElementById("resposta") .style.display="block"
 }
