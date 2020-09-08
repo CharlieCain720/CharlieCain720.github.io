@@ -1,1 +1,5 @@
 # MegaHackWoman
+
+Nosso projeto é uma organização digital, uma ferramenta que conecta mulheres (trans/cis) e pessoas não binárias com empresas em diferentes estágios de contato, desde um processo seletivo (análise das vagas, tecnologias, perfil da empresa, afim de atrair essas pessoas para a vaga) até o desenvolvimento destas já dentro das empresas. Visamos impulsionar a mudança, conectar, empoderar e incentivar essas pessoas de forma humana e transparente. 
+
+O primeiro passo para a implementação disso, no entanto, é trazer maior visibilidade para as mulheres que construíram a Tecnologia e a Programação. Dessa forma, queremos ajudar as mulheres cis e trans e pessoas não binárias a se enxergarem no mercado de Tecnologia, tanto como atores quanto líderes. Por esse motivo, o projeto iniciou com a criação de um teste de fit Tecnológico, que inclui informações sobre o que são as diferentes áreas que fazem parte do mercado tech. Com isso, visamos informar e apoiar na inclusão das mulheres e pessoas não binárias, desmistificando o que cada um dos campos de conhecimento realmente significa.
